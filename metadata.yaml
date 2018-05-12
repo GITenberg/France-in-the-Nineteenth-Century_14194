@@ -1,0 +1,31 @@
+_repo: France-in-the-Nineteenth-Century_14194
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Latimer, Elizabeth Wormeley
+    aliases:
+    - Latimer, E. W. (Elizabeth Wormeley)
+    - Latimer, Mary Elizabeth
+    - Latimer, Elizabeth W. (Elizabeth Wormeley)
+    - Wormeley, Mary Elizabeth
+    birthdate: 1822
+    deathdate: 1904
+    gutenberg_agent_id: '5405'
+    url: http://www.gutenberg.org/2009/agents/5405
+description: ''
+gutenberg_issued: '2004-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- 1789-1900'
+title: France in the Nineteenth Century
+url: http://www.gutenberg.org/ebooks/14194
